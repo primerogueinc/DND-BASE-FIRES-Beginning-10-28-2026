@@ -34,6 +34,7 @@ GOES-East cannot answer this question. GOES-19's fire product (CONUS, every 5 mi
 | `maps/cfb-gagetown-fire-2026-10-28-locator.jpg` | Where it is: the training area, Gagetown village, Oromocto (off map) |
 | `maps/cfb-gagetown-fire-2026-10-28-closeup-truecolour.jpg` | Close-up, true colour, with every detection by pass |
 | `maps/cfb-gagetown-fire-2026-10-28-closeup-swir.jpg` | Same, SWIR false colour (B12/B8A/B4) |
+| `maps/branded/01–08` | Branded set for publication: region, locator, close-up, SWIR, pass by pass, heat-output chart, two 3D views (Copernicus DEM GLO-30 terrain). Code: `scripts/build_brand_gagetown_2026-10-28.py` |
 | `maps/sentinel2_2026-10-27_assets.txt` | Source scene: S2C_19TGL_20261027_0_L2A (Element 84 Earth Search, AWS open data), 0.08% cloud |
 
 Code: `scripts/pull_firms.py` (needs `FIRMS_MAP_KEY` in the environment; the key is never stored) and `scripts/make_maps_gagetown_2026-10-28.py`.
@@ -53,4 +54,4 @@ Code: `scripts/pull_firms.py` (needs `FIRMS_MAP_KEY` in the environment; the key
 
 ## Licences and credits
 
-NASA FIRMS (LANCE) data: NASA open data. Sentinel-2: "Contains modified Copernicus Sentinel data [2026]". Prime Rogue's tables, maps and text: CC BY-NC 4.0, credit "Prime Rogue Inc." Code: MIT.
+NASA FIRMS (LANCE) data: NASA open data. Sentinel-2: "Contains modified Copernicus Sentinel data [2026]". Terrain: Copernicus DEM GLO-30 (© DLR e.V. 2010–2014 and © Airbus Defence and Space GmbH 2014–2018, provided under COPERNICUS by the European Union and ESA). Prime Rogue's tables, maps and text: CC BY-NC 4.0, credit "Prime Rogue Inc." Code: MIT.

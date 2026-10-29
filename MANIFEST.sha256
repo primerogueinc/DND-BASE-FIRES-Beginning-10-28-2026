@@ -1,4 +1,4 @@
-1fed72ccb1a779882208a4f2421c531b9de706f95e0c441588f0c7ae83f09981  cfb-gagetown/2026-10-28/README.md
+1bbaaf02077b2810723e82b69cafca1ad92321270dcf98830ac8d3695559a771  cfb-gagetown/2026-10-28/README.md
 aa8360a4063a9f32a41f24c7e2700a047880f6a5275c4a9d7c7c8f23b0fb469d  cfb-gagetown/2026-10-28/firms/detections_2026-10-28T2357Z.csv
 424e99716144f0650b6d1aef0d74407efd8e773a283d190ced5e20443aa9b68d  cfb-gagetown/2026-10-28/firms/raw/LANDSAT_NRT_2026-10-28T2357Z_2d.csv
 424e99716144f0650b6d1aef0d74407efd8e773a283d190ced5e20443aa9b68d  cfb-gagetown/2026-10-28/firms/raw/LANDSAT_NRT_2026-10-28_2d.csv
@@ -10,9 +10,18 @@ aa8360a4063a9f32a41f24c7e2700a047880f6a5275c4a9d7c7c8f23b0fb469d  cfb-gagetown/2
 641a5b445f203130bba2e535e284bbfacb146ce1de904dec87721052e3c77584  cfb-gagetown/2026-10-28/firms/raw/VIIRS_NOAA21_NRT_2026-10-28_2d.csv
 335ff5970c4d1ae63d82ff1853a029487e4f729954934768c7ed180c12f4c96e  cfb-gagetown/2026-10-28/firms/raw/VIIRS_SNPP_NRT_2026-10-28T2357Z_2d.csv
 335ff5970c4d1ae63d82ff1853a029487e4f729954934768c7ed180c12f4c96e  cfb-gagetown/2026-10-28/firms/raw/VIIRS_SNPP_NRT_2026-10-28_2d.csv
+8200f812407d2e2d30eeaa26cb487e40667d1e3094e558e5ba0c22482739c132  cfb-gagetown/2026-10-28/maps/branded/01-cfb-gagetown-fire-region.jpg
+0faaa9c4bee47c85f77467074fd7a42b6d42f88f6a6caf8aba1cdd46f65edcde  cfb-gagetown/2026-10-28/maps/branded/02-cfb-gagetown-fire-locator.jpg
+b2df06de325fab5138adc501e6ae6dacad6cd8d2001f012cdd94bf2119935824  cfb-gagetown/2026-10-28/maps/branded/03-cfb-gagetown-fire-closeup.jpg
+c3bc2f1a08735ece9d24a456016fb538f1a5832484aa6ae5c2c69fe80f4fa715  cfb-gagetown/2026-10-28/maps/branded/04-cfb-gagetown-fire-swir.jpg
+3a9eea0ded390eb49058f23b9644ace832d207790d0acccb29ae483e9238835e  cfb-gagetown/2026-10-28/maps/branded/05-cfb-gagetown-fire-passes.jpg
+5a8e36023d446ec314873cb94cf52713773586b43b2dbea6cbb671bea2abf538  cfb-gagetown/2026-10-28/maps/branded/06-cfb-gagetown-fire-power-chart.jpg
+e93621ee8763ce32f336f312875d98a871b19dec3f06a0b94fcd40de642b37a6  cfb-gagetown/2026-10-28/maps/branded/07-cfb-gagetown-fire-3d-from-southwest.jpg
+0e713c893614e205f3491b9fba9b15cf77677df1ffa003844ce470d182d5d70d  cfb-gagetown/2026-10-28/maps/branded/08-cfb-gagetown-fire-3d-from-north.jpg
 fe38f490918ec9fcbb49c287a7debb4f080109998b158ad7fc1768fd0d1c31df  cfb-gagetown/2026-10-28/maps/cfb-gagetown-fire-2026-10-28-closeup-swir.jpg
 b5b634812998b1fa5c73f3b612c97be4ad36d70f2fe4c42a15fa536710ecd9c8  cfb-gagetown/2026-10-28/maps/cfb-gagetown-fire-2026-10-28-closeup-truecolour.jpg
 d21c0cb6e213976fb10a9979469ff987ff51c2e1f80e48bbcc43faca426a9c37  cfb-gagetown/2026-10-28/maps/cfb-gagetown-fire-2026-10-28-locator.jpg
 bdb44ec3e19df6f20baa80caf4dd9f5556ac98612f7b8559b3b082fbd0129145  cfb-gagetown/2026-10-28/maps/sentinel2_2026-10-27_assets.txt
+707b34c2824bfc2c631ad44836b08d80062f4d55bb176c8fdbcbae64b5e61783  scripts/build_brand_gagetown_2026-10-28.py
 3ccc5032b9460d4bd7757493ab363f6056039e5af3907d306883f9ca16346902  scripts/make_maps_gagetown_2026-10-28.py
 c04fbca545da4ff7f2f26ae7b2a1a6e2a1f9c32bc9e764f05bf1a1271a0488de  scripts/pull_firms.py
