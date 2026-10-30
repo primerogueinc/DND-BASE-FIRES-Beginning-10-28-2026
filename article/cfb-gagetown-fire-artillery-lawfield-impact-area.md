@@ -61,7 +61,7 @@ It came eleven days after the fire at CFB Wainwright, Alta., where four soldiers
 
 ## What the base says happened
 
-CFB Gagetown's public affairs office answered Prime Rogue's questions in writing on Oct. 29. National Defence declined to comment on an earlier set of questions sent to the department.
+CFB Gagetown's public affairs office answered Prime Rogue's questions in writing on Oct. 29. National Defence did not reply to an earlier set of questions sent to the department by its noon deadline on Oct. 29.
 
 - **Cause.** "The wildfire was started by artillery shooting into Lawfield Impact Area," wrote Capt. Robynn Still, public affairs officer for Canadian Support Group (Atlantic). "As the fall of artillery shot is done under observation, the detection of this fire would have occurred very rapidly after its ignition." The cause "remains under investigation," she added, but the fire "originated within an active impact area of the training range."
 - **When.** "The fire was reported to Range Control at 1222 hrs on 28 October." Training restrictions were put in place at 12:15 p.m.

@@ -42,4 +42,4 @@ CFB Gagetown public affairs (Capt. Robynn Still) answered Prime Rogue's question
 - **Safety:** no injuries and no evacuations.
 - **Response:** WFMS is leading, with helicopter bucketing and a 4 ESR armoured dozer. Unexploded ordnance limits some suppression methods.
 
-National Defence declined to comment on an earlier set of questions. Article: [`../../article/`](../../article/cfb-gagetown-fire-artillery-lawfield-impact-area.md).
+National Defence did not reply to an earlier set of questions. Article: [`../../article/`](../../article/cfb-gagetown-fire-artillery-lawfield-impact-area.md).

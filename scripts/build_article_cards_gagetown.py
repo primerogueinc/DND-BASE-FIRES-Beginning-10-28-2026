@@ -87,8 +87,8 @@ def base_answers():
             d.text((320, y + 34 * i), l, font=M(26), fill=CREAM)
         y += 118
         d.line([(36, y - 22), (W - 36, y - 22)], fill=(64, 52, 40), width=1)
-    g.panel(im, "What the base told us", "CFB Gagetown public affairs answered Prime Rogue's questions in writing on Oct. 29. National Defence declined to "
-            "comment on an earlier set of questions.", ["Quotes and figures: Capt. Robynn Still, Public Affairs Officer, Canadian Support Group (Atlantic), Oct. 29, 2026."],
+    g.panel(im, "What the base told us", "CFB Gagetown public affairs answered Prime Rogue's questions in writing on Oct. 29. National Defence did not "
+            "reply to an earlier set of questions.", ["Quotes and figures: Capt. Robynn Still, Public Affairs Officer, Canadian Support Group (Atlantic), Oct. 29, 2026."],
             "Prime Rogue Inc.", "12-cfb-gagetown-fire-base-answers")
 
 
