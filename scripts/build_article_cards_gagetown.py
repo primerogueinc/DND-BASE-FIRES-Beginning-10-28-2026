@@ -43,7 +43,7 @@ def social():
     d.text((64, 222), "Orbit saw it", font=H(76), fill=GOLD)
     d.text((64, 314), "24 minutes later.", font=H(76), fill=GOLD)
     y = 440
-    for line in g.wrap("Reported to Range Control at 12:22 p.m. on Oct. 28. GOES-19's first heat: 12:46. Still burning the next afternoon.", M(30), 690):
+    for line in g.wrap("No human sources: automated satellite data flagged it, and we reported it 36 minutes before the base did. Still burning the next afternoon.", M(30), 690):
         d.text((64, y), line, font=M(30), fill=MUTED); y += 42
     # mini chart: GOES-19 fire power, 12:00–4:00 p.m.
     goes = g.GOES[g.GOES.satellite.str.startswith("GOES-19") & (g.GOES["product"] == "ABI-L2-FDCC") & (g.GOES.status == "ok")].copy()
@@ -137,7 +137,7 @@ def first_hours():
             "VIIRS passed five times that afternoon. Grey shading: share of the GOES box coded cloud. Times ADT, Oct. 28.",
             ["GOES's first flag (12:46) was a low-probability code; its first measured fire power came at 12:50–12:51 p.m. Gaps between bars are mostly cloud, not the fire stopping.",
              "Base times: CFB Gagetown public affairs, Oct. 29."],
-            "Fire detections: NOAA GOES-19 ABI fire product, CONUS scans (NOAA Open Data on AWS; series by Roger Wilco Imagery) and NASA FIRMS (VIIRS), Oct. 28, 2026. "
+            "Fire detections: NOAA GOES-19 ABI fire product, CONUS scans (NOAA Open Data on AWS; series by Roger Wilco Media) and NASA FIRMS (VIIRS), Oct. 28, 2026. "
             "Analysis: Prime Rogue Inc.", "13-cfb-gagetown-fire-first-hours")
 
 
@@ -146,12 +146,13 @@ def story():
     ev = [("OCT. 28 · 12:22 P.M.", "Fire reported to Range Control", "CFB Gagetown (stated Oct. 29)", GOLD),
           ("12:46 P.M.", "First heat from orbit", "GOES-19 (NOAA)", RED),
           ("1:22–3:41 P.M.", "35 detections, five satellite passes", "NASA FIRMS (VIIRS)", RED),
-          ("5:21 P.M.", "Flagged as new heat on a military base", "Roger Wilco Imagery (Prime Rogue), automated satellite watch", CREAM),
+          ("5:21 P.M.", "Flagged automatically: new heat on a military base", "Roger Wilco Media's imaging pipeline (no human source)", CREAM),
+          ("5:24 P.M.", "Alert pushed: \u201cThermal: CFB Gagetown\u201d", "Roger Wilco Media", CREAM),
           ("8:45 P.M.", "First data pull and maps", "Prime Rogue Inc.", CREAM),
-          ("9:13 P.M.", "FIRST PUBLIC REPORT, on X", "Prime Rogue, from Roger Wilco Imagery data", RED),
+          ("9:13 P.M.", "FIRST PUBLIC REPORT, on X", "Prime Rogue, from the satellite data alone", RED),
           ("ABOUT 9:49 P.M.", "Base statement on Instagram: fire burning, no threat", "CFB Gagetown", GOLD),
           ("LATE OCT. 28", "First wire story", "The Canadian Press", MUTED),
-          ("OCT. 29, MORNING", "Satellite timeline: SITREP 017", "Roger Wilco Imagery (Prime Rogue)", CREAM),
+          ("OCT. 29, MORNING", "Satellite timeline: SITREP 017", "Roger Wilco Media", CREAM),
           ("OCT. 29, DAY", "Cause and size: artillery into Lawfield Impact Area, ~25 ha", "CFB Gagetown via CBC, Fredericton Independent", GOLD),
           ("OCT. 29", "Written answers to Prime Rogue's questions", "CFB Gagetown public affairs", GOLD),
           ("OCT. 29, 1:05–3:21 P.M.", "Burning again: 13 detections", "NASA FIRMS (VIIRS)", RED)]
@@ -165,10 +166,10 @@ def story():
         d.ellipse([xL - 11, y + 2, xL + 11, y + 24], fill=col, outline=INK, width=3)
         d.text((xL + 34, y - 2), what, font=B(27), fill=CREAM)
         d.text((xL + 34, y + 36), who, font=M(21), fill=MUTED)
-    g.panel(im, "How the story broke", "From the first report to Range Control to the first answers. Prime Rogue reported it first, on X, 36 minutes before "
-            "the base's public statement; the cause came the next day. Times ADT.",
-            ["Prime Rogue's X post at 9:13 p.m. ADT was, as far as we can find, the first public report of the fire.",
-             "Disclosure: Roger Wilco Imagery is Prime Rogue's satellite-monitoring dashboard, owned by Prime Rogue Inc. and not yet launched."],
+    g.panel(im, "How the story broke", "Prime Rogue broke it with no human sources, from automated satellite data, 36 minutes before the base's own statement. "
+            "The cause came the next day. Times ADT.",
+            ["No human sources: the lead came from automated satellite monitoring. Prime Rogue's X post (9:13 p.m.) was, as far as we can find, the first public report.",
+             "Disclosure: Roger Wilco Media and its imaging pipeline, Roger Wilco Imagery, are owned by Prime Rogue Inc. and not yet officially launched."],
             "Sources: CFB Gagetown public affairs; NOAA GOES-19; NASA FIRMS; The Canadian Press; CBC News; Fredericton Independent; Roger Wilco Imagery. "
             "Analysis: Prime Rogue Inc.", "14-cfb-gagetown-fire-how-the-story-broke")
 
@@ -196,7 +197,7 @@ def compare():
                 d.text((x, y - 2 + 32 * j), l, font=M(25), fill=CREAM)
     g.panel(im, "Two range fires, eleven days apart", "Both started during live-fire training. At Wainwright, wind drove the fire onto soldiers; at Gagetown, "
             "it stayed in the impact area and no one was hurt.",
-            ["Wainwright: DND and published reporting; satellite figures from Roger Wilco Imagery's analysis (RWI-HC-001). Gagetown: CFB Gagetown public affairs, Oct. 29.",
+            ["Wainwright: DND and published reporting; satellite figures from Roger Wilco Media's analysis (RWI-HC-001). Gagetown: CFB Gagetown public affairs, Oct. 29.",
              "Areas are not comparable estimates: Wainwright from imagery, Gagetown the base's figure."],
             "Prime Rogue Inc.", "15-cfb-gagetown-wainwright-compared")
 

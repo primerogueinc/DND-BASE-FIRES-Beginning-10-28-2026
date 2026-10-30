@@ -135,7 +135,7 @@ def timeline():
           "GOES-19 watches the area every five minutes; three VIIRS satellites pass a few times a day. The base's reported times are marked. Times ADT.",
           ["GOES pixels are about 3 km across here and the area was mostly cloudy on Oct. 28, so GOES saw the fire through gaps; VIIRS pixels are about 375 m.",
            "Bars and diamonds measure heat output, not area burned. Base times: CFB Gagetown public affairs, Oct. 29."],
-          "Fire detections: NOAA GOES-19 ABI fire product (via NOAA Open Data on AWS; series by Roger Wilco Imagery) and NASA FIRMS (VIIRS NOAA-21, NOAA-20, "
+          "Fire detections: NOAA GOES-19 ABI fire product (via NOAA Open Data on AWS; series by Roger Wilco Media) and NASA FIRMS (VIIRS NOAA-21, NOAA-20, "
           "Suomi NPP), Oct. 28–29, 2026. Analysis: Prime Rogue Inc.", "09-cfb-gagetown-fire-timeline")
 
 

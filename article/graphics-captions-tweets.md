@@ -7,7 +7,7 @@ Every tweet is under 280 characters including a 23-character link. Images are in
 
 | # | File | Where it goes | Caption |
 |---|---|---|---|
-| 1 | `11-cfb-gagetown-fire-social-card.jpg` | **Featured image** and Open Graph / X card; not in the body | Artillery started the fire; GOES-19 saw its first heat 24 minutes after the reported time. |
+| 1 | `11-cfb-gagetown-fire-social-card.jpg` | **Featured image** and Open Graph / X card; not in the body | Broken from automated satellite data, with no human sources: Prime Rogue reported the fire 36 minutes before the base did. |
 | 2 | `01-cfb-gagetown-fire-region.jpg` | After the lede (the Wainwright line), before "What the base says happened" | The fire was in the CFB Gagetown training area, about 20 km south-east of Oromocto and 9–10 km west-south-west of Gagetown village. |
 | 3 | `12-cfb-gagetown-fire-base-answers.jpg` | End of "What the base says happened", before the Wildland Fire Management Services point | What CFB Gagetown told Prime Rogue in writing on Oct. 29. |
 | 4 | `09-cfb-gagetown-fire-timeline.jpg` | Top of "What the satellites saw" | Two days of fire power over the training area, from GOES-19 every five minutes and VIIRS on each pass, with the base's times marked. |
@@ -52,7 +52,7 @@ Every tweet is under 280 characters including a 23-character link. Images are in
    > Two days of fire power over CFB Gagetown, from GOES-19 every five minutes and VIIRS on each pass. Peak 112 MW on Oct. 28 afternoon, low heat overnight, a second, smaller run on Oct. 29. {link}
 
 10. **14 how the story broke**
-    > How the CFB Gagetown fire story broke: satellites had it from 12:46 p.m., Roger Wilco Imagery flagged it at 5:21, we posted it at 9:13, the base at about 9:49. The cause came the next day. {link}
+    > How the CFB Gagetown fire story broke: satellites had it from 12:46 p.m., Roger Wilco Media's automated pipeline pushed an alert at 5:24, we posted at 9:13, the base at about 9:49. No human sources. {link}
 
 11. **15 Wainwright compared**
     > Two range fires, eleven days apart. Wainwright, Oct. 17: wind drove the fire onto soldiers; four died. Gagetown, Oct. 28: it stayed in the impact area; no one was hurt. Asked what changed in between, the base referred us to "the appropriate authorities." {link}
