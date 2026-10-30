@@ -73,7 +73,7 @@ def panel(img, title, sub, notes, credit, name):
     for i, l in enumerate(nl):
         d.text((54, fy + 30 + 25 * i), l, font=M(16.5), fill=CREAM)
     d.text((54, im.height - 46), "PRIME ROGUE", font=B(19), fill=GOLD)
-    lg = logo(84); im.paste(lg, (W - 130, fy + (im.height - fy - 84) // 2), lg)
+    lg = logo(96); im.paste(lg, (W - 140, fy + (im.height - fy - 96) // 2), lg)
     im.save(os.path.join(OUT, name + ".jpg"), quality=88); print(name, im.size)
 
 
@@ -174,5 +174,6 @@ def day_two():
           "(Sentinel-2, Oct. 27, 2026). Analysis: Prime Rogue Inc.", "10-cfb-gagetown-fire-day-two")
 
 
-timeline()
-day_two()
+if __name__ == "__main__":
+    timeline()
+    day_two()

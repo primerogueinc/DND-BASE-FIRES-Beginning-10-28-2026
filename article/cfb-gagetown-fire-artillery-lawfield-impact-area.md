@@ -8,7 +8,7 @@ date: 2026-10-30
 status: draft
 categories: [Investigations, Canadian Armed Forces]
 tags: [CFB Gagetown, wildfire, Lawfield Impact Area, Royal Canadian Artillery School, CFB Wainwright, satellite analysis, NASA FIRMS, GOES-19, open-source intelligence, New Brunswick]
-featured_image: cfb-gagetown/2026-10-28/maps/branded/03-cfb-gagetown-fire-closeup.jpg
+featured_image: cfb-gagetown/2026-10-29/maps/branded/11-cfb-gagetown-fire-social-card.jpg
 rank_math:
   focus_keyword: CFB Gagetown fire
   secondary_keywords: [Gagetown wildfire, Lawfield Impact Area, Base Gagetown artillery fire, CFB Wainwright fire, NASA FIRMS satellite fire]
@@ -26,12 +26,12 @@ rank_math:
   open_graph:
     title: "Artillery set CFB Gagetown's training area burning. Satellites watched for two days."
     description: "A 105 mm howitzer course, a Moderate fire-danger rating, 25 hectares burned: the full sequence of the Oct. 28 fire, from orbit and from the base."
-    image: cfb-gagetown/2026-10-28/maps/branded/08-cfb-gagetown-fire-3d-from-north.jpg
+    image: cfb-gagetown/2026-10-29/maps/branded/11-cfb-gagetown-fire-social-card.jpg
   twitter:
     card: summary_large_image
     title: "CFB Gagetown fire: the full sequence"
     description: "Artillery into the Lawfield Impact Area, reported to Range Control at 12:22 p.m., seen from orbit 24 minutes later, still burning a day on."
-    image: cfb-gagetown/2026-10-28/maps/branded/08-cfb-gagetown-fire-3d-from-north.jpg
+    image: cfb-gagetown/2026-10-29/maps/branded/11-cfb-gagetown-fire-social-card.jpg
   pillar_content: false
   breadcrumbs_title: CFB Gagetown fire
 image_alts:
@@ -42,6 +42,11 @@ image_alts:
   08-cfb-gagetown-fire-3d-from-north.jpg: "3D view of the CFB Gagetown clearing from the north, with spikes showing the heat output of each satellite fire detection"
   09-cfb-gagetown-fire-timeline.jpg: "Chart of fire radiative power over CFB Gagetown from GOES-19 and VIIRS on Oct. 28–29, 2026, with the base's reported times marked"
   10-cfb-gagetown-fire-day-two.jpg: "Satellite image showing Oct. 29 fire detections on the southern side of the area that burned on Oct. 28"
+  11-cfb-gagetown-fire-social-card.jpg: "Prime Rogue card: Artillery started it. Orbit saw it 24 minutes later. With a GOES-19 fire-power chart for the afternoon of Oct. 28, 2026"
+  12-cfb-gagetown-fire-base-answers.jpg: "Summary card of CFB Gagetown's written answers: artillery into Lawfield Impact Area, reported 12:22 p.m., 105 mm LG1 course, Moderate fire danger, 25 hectares, no injuries"
+  13-cfb-gagetown-fire-first-hours.jpg: "Chart of GOES-19 and VIIRS fire power over CFB Gagetown from noon to 4 p.m. on Oct. 28, 2026, with the base's 12:15 and 12:22 times and the first satellite heat at 12:46"
+  14-cfb-gagetown-fire-how-the-story-broke.jpg: "Timeline of how the CFB Gagetown fire story broke, from the 12:22 p.m. report to Range Control to the base's written answers"
+  15-cfb-gagetown-wainwright-compared.jpg: "Comparison table of the CFB Wainwright fire of Oct. 17 and the CFB Gagetown fire of Oct. 28, 2026"
 ---
 
 # CFB Gagetown fire: artillery set the training area burning, and satellites watched it for two days
@@ -67,6 +72,8 @@ CFB Gagetown's public affairs office answered Prime Rogue's questions in writing
 - **Firefighting.** Wildland Fire Management Services is leading the response. Helicopter water-bucket drops were planned for the afternoon of Oct. 29, and an armoured dozer from 4 Engineer Support Regiment was being brought in. "Due to the presence of unexploded ordnance within portions of the training area, some suppression methods cannot be used in affected areas."
 - **After Wainwright.** Asked whether anything had changed since Oct. 17, the base said the Armed Forces "continually reviews wildfire mitigation measures, range safety procedures, and training practices," and referred CAF-wide questions to "the appropriate authorities."
 
+![What the base told us](../cfb-gagetown/2026-10-29/maps/branded/12-cfb-gagetown-fire-base-answers.jpg)
+
 One point in the answers needs clearing up. The base describes Wildland Fire Management Services in one answer as "New Brunswick's provincial wildfire agency" and in another as "a base organization independent of the Base Fire Services."
 
 ## What the satellites saw
@@ -78,6 +85,8 @@ The fire was visible from orbit for most of two days. Three kinds of public sate
 **Oct. 28, midday: first heat.**
 - GOES-19, the U.S. weather satellite that images eastern North America every five minutes, recorded its first heat over the area at **12:46 p.m.** That's 24 minutes after the time the base gives for the report to Range Control. Its first measured fire power came at 12:50–12:51 p.m., 52–58 megawatts.
 - The area was mostly cloud-covered all afternoon, so GOES saw the fire only through gaps. Its pixels are about 3 km across here: it can confirm a fire, not draw it.
+
+![The first hours, minute by minute](../cfb-gagetown/2026-10-29/maps/branded/13-cfb-gagetown-fire-first-hours.jpg)
 
 **Oct. 28, afternoon: five passes.** NASA's three VIIRS satellites passed five times between 1:22 and 3:41 p.m. and recorded **35 fire detections**:
 
@@ -119,6 +128,8 @@ In short-wave infrared, the clearing shows as dry, sparsely vegetated ground, an
 
 ## How the story broke
 
+![How the story broke](../cfb-gagetown/2026-10-29/maps/branded/14-cfb-gagetown-fire-how-the-story-broke.jpg)
+
 - **12:22 p.m., Oct. 28:** fire reported to Range Control, per the base.
 - **12:46 p.m.:** first heat from orbit (GOES-19).
 - **1:22 p.m.:** first NASA FIRMS (VIIRS) detections.
@@ -131,6 +142,8 @@ In short-wave infrared, the clearing shows as dry, sparsely vegetated ground, an
 Reports disagree on the fire's status on Oct. 29. The Canadian Press described it as under control. The base's own answers say it "remains active."
 
 ## Why the timing matters
+
+![Two range fires, eleven days apart](../cfb-gagetown/2026-10-29/maps/branded/15-cfb-gagetown-wainwright-compared.jpg)
 
 Wainwright still hangs over every range fire.
 - The Oct. 17 fire there started on an automatic grenade launcher range, and a wind shift drove it onto soldiers on a nearby range. Roger Wilco Media's satellite analysis put the first heat about 70 minutes before the ignition time officials first gave.
