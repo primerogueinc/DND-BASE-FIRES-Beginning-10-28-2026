@@ -14,7 +14,7 @@ Files: `firms/raw/` holds the unaltered FIRMS responses; `firms/detections_2026-
 
 Pulled with `scripts/pull_firms.py`, covering the last day. All times ADT.
 
-**Still burning on the afternoon of Oct. 29, at roughly a third of Oct. 28's intensity.** Five VIIRS passes between 1:05 and 3:21 p.m. ADT detected fire every time: **15 daytime fire pixels**, with a peak fire radiative power of **12.0 MW**.
+**Still burning on the afternoon of Oct. 29, at roughly a third of Oct. 28's intensity.** Five VIIRS passes between 1:05 and 3:21 p.m. ADT detected fire every time: **13 daytime fire pixels** (corrected Oct. 30 from 15; the table below sums to 13), with a peak fire radiative power of **12.0 MW**.
 
 | Pass (ADT) | Satellite | Pixels | Peak FRP (MW) |
 | --- | --- | --- | --- |
@@ -31,3 +31,15 @@ For comparison: Oct. 28 afternoon, 35 pixels with a peak of 31.5 MW; overnight, 
 **Correction to the overnight note.** The late-arriving Suomi NPP data adds 2 more night pixels, at 3:57 a.m. ADT (peak 1.1 MW), alongside NOAA-20's 2 pixels at 4:15 a.m.
 
 Files: `firms/raw/*_2026-10-29T2046Z_1d.csv` (unaltered FIRMS responses) and `firms/detections_2026-10-29T2046Z.csv` (merged table).
+
+## Base response (Oct. 29)
+
+CFB Gagetown public affairs (Capt. Robynn Still) answered Prime Rogue's questions in writing:
+- **Cause:** "The wildfire was started by artillery shooting into Lawfield Impact Area."
+- **Timing:** reported to Range Control at 12:22 p.m. on Oct. 28; training restrictions from 12:15 p.m.
+- **Training under way:** Royal Canadian Artillery School Forward Observation Officer course, 105 mm LG1 howitzer.
+- **Conditions and size:** fire-danger rating Moderate; about 25 ha burned and about 12 ha active on Oct. 29.
+- **Safety:** no injuries and no evacuations.
+- **Response:** WFMS is leading, with helicopter bucketing and a 4 ESR armoured dozer. Unexploded ordnance limits some suppression methods.
+
+National Defence declined to comment on an earlier set of questions. Article: [`../../article/`](../../article/cfb-gagetown-fire-artillery-lawfield-impact-area.md).

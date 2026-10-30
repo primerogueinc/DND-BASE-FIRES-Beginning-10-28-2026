@@ -19,6 +19,8 @@ On Oct. 28, NASA FIRMS has **35 VIIRS fire detections from five satellite passes
 - **What kind of ground:** the Sentinel-2 image from the day before (Oct. 27, clear) shows the detections inside a large open, cleared area of heath and brush with tracks across it, surrounded by forest. In the SWIR (short-wave infrared) image it shows as bright, dry, sparsely vegetated ground.
 - **Not established:** whether this was a planned (prescribed) burn or a fire started by training, and whether it is still burning. See the next section.
 
+> **Correction, Oct. 30.** The paragraph below says GOES-19 never flagged the site. That is wrong. A five-minute GOES-19 series built by Roger Wilco Media from the same NOAA fire product (CONUS scans) shows fire pixels from **12:46 p.m. to 3:41 p.m. ADT**, peaking at **112 MW at 3:26 p.m.** The area was mostly cloud-coded, so GOES saw the fire through gaps. The series is in [`../goes/goes_fire_2026-10-28_29.csv`](../goes/goes_fire_2026-10-28_29.csv). The base later said the fire was reported to Range Control at 12:22 p.m.
+
 ## Is it still burning?
 
 **Unknown as of the first pull.** The last detection was at 3:41 p.m. ADT. No polar-orbiting satellite has passed over since. The next VIIRS passes are at night, around 1–3 a.m. ADT, and FIRMS usually posts them within about three hours.

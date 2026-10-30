@@ -1,0 +1,72 @@
+{
+  "post_title": "CFB Gagetown fire: artillery set the training area burning, and satellites watched it for two days",
+  "slug": "cfb-gagetown-fire-artillery-lawfield-impact-area",
+  "permalink": "https://primerogueinc.com/blog/cfb-gagetown-fire-artillery-lawfield-impact-area/",
+  "author": "Kevin J.S. Duska Jr.",
+  "date": "2026-10-30",
+  "categories": [
+    "Investigations",
+    "Canadian Armed Forces"
+  ],
+  "tags": [
+    "CFB Gagetown",
+    "wildfire",
+    "Lawfield Impact Area",
+    "Royal Canadian Artillery School",
+    "CFB Wainwright",
+    "satellite analysis",
+    "NASA FIRMS",
+    "GOES-19",
+    "open-source intelligence",
+    "New Brunswick"
+  ],
+  "featured_image": "cfb-gagetown/2026-10-28/maps/branded/03-cfb-gagetown-fire-closeup.jpg",
+  "rank_math": {
+    "focus_keyword": "CFB Gagetown fire",
+    "secondary_keywords": [
+      "Gagetown wildfire",
+      "Lawfield Impact Area",
+      "Base Gagetown artillery fire",
+      "CFB Wainwright fire",
+      "NASA FIRMS satellite fire"
+    ],
+    "seo_title": "CFB Gagetown fire: artillery, a 12:22 report and two days of satellite data %sep% %sitename%",
+    "meta_description": "Artillery fire into the Lawfield Impact Area started the CFB Gagetown fire on Oct. 28. Satellites tracked it for two days. What the base told Prime Rogue.",
+    "canonical_url": "https://primerogueinc.com/blog/cfb-gagetown-fire-artillery-lawfield-impact-area/",
+    "robots": [
+      "index",
+      "follow",
+      "max-image-preview:large"
+    ],
+    "schema": {
+      "type": "NewsArticle",
+      "headline": "CFB Gagetown fire: artillery set the training area burning, and satellites watched it for two days",
+      "article_section": "Investigations",
+      "date_published": "2026-10-30",
+      "keywords": "CFB Gagetown, wildfire, Lawfield Impact Area, artillery, satellite, CFB Wainwright",
+      "location": "CFB Gagetown Range and Training Area, New Brunswick, Canada (45.749 N, 66.260 W)"
+    },
+    "open_graph": {
+      "title": "Artillery set CFB Gagetown's training area burning. Satellites watched for two days.",
+      "description": "A 105 mm howitzer course, a Moderate fire-danger rating, 25 hectares burned: the full sequence of the Oct. 28 fire, from orbit and from the base.",
+      "image": "cfb-gagetown/2026-10-28/maps/branded/08-cfb-gagetown-fire-3d-from-north.jpg"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "CFB Gagetown fire: the full sequence",
+      "description": "Artillery into the Lawfield Impact Area, reported to Range Control at 12:22 p.m., seen from orbit 24 minutes later, still burning a day on.",
+      "image": "cfb-gagetown/2026-10-28/maps/branded/08-cfb-gagetown-fire-3d-from-north.jpg"
+    },
+    "pillar_content": false,
+    "breadcrumbs_title": "CFB Gagetown fire"
+  },
+  "image_alts": {
+    "01-cfb-gagetown-fire-region.jpg": "Satellite map of the lower Saint John River valley showing Fredericton, Oromocto and Gagetown village, with the Oct. 28, 2026 fire marked in the CFB Gagetown training area",
+    "02-cfb-gagetown-fire-locator.jpg": "Satellite map of the CFB Gagetown training area with VIIRS fire detections of Oct. 28, 2026 clustered in a large open clearing west-south-west of Gagetown village",
+    "03-cfb-gagetown-fire-closeup.jpg": "Close-up satellite image of the clearing with 35 VIIRS fire-detection boxes from five satellite passes on Oct. 28, 2026",
+    "04-cfb-gagetown-fire-swir.jpg": "Short-wave infrared satellite view of the same clearing, showing the fire detections on dry, sparsely vegetated ground",
+    "08-cfb-gagetown-fire-3d-from-north.jpg": "3D view of the CFB Gagetown clearing from the north, with spikes showing the heat output of each satellite fire detection",
+    "09-cfb-gagetown-fire-timeline.jpg": "Chart of fire radiative power over CFB Gagetown from GOES-19 and VIIRS on Oct. 28–29, 2026, with the base's reported times marked",
+    "10-cfb-gagetown-fire-day-two.jpg": "Satellite image showing Oct. 29 fire detections on the southern side of the area that burned on Oct. 28"
+  }
+}
