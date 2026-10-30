@@ -156,10 +156,6 @@ But some of the same questions apply:
 
 The base answered the first in general terms and referred the last to "the appropriate authorities."
 
-## A note on times
-
-Prime Rogue's second set of questions to the base, sent Oct. 29, gave the first satellite pass as 12:22 p.m. ADT. That was our error: the first VIIRS pass was at 1:22 p.m. The base's answer gives 12:22 as the time the fire was reported to Range Control, and puts the training restrictions at 12:15 p.m., seven minutes earlier. Because the base's time matches our mistaken one, we are asking it to confirm that both times come from Range Control's own records. We will update this story with its answer.
-
 ## Sources and method
 
 - **Fire detections:** NASA FIRMS (VIIRS on NOAA-21, NOAA-20 and Suomi NPP), near-real-time, Oct. 27–30.

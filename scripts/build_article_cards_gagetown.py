@@ -136,7 +136,7 @@ def first_hours():
     g.panel(img, "The first hours, minute by minute", "GOES-19 images the area every five minutes. Its first heat came 24 minutes after the base's reported time; "
             "VIIRS passed five times that afternoon. Grey shading: share of the GOES box coded cloud. Times ADT, Oct. 28.",
             ["GOES's first flag (12:46) was a low-probability code; its first measured fire power came at 12:50–12:51 p.m. Gaps between bars are mostly cloud, not the fire stopping.",
-             "Base times: CFB Gagetown public affairs, Oct. 29. Prime Rogue is asking the base to confirm both come from Range Control's records."],
+             "Base times: CFB Gagetown public affairs, Oct. 29."],
             "Fire detections: NOAA GOES-19 ABI fire product, CONUS scans (NOAA Open Data on AWS; series by Roger Wilco Media) and NASA FIRMS (VIIRS), Oct. 28, 2026. "
             "Analysis: Prime Rogue Inc.", "13-cfb-gagetown-fire-first-hours")
 

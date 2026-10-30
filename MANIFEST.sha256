@@ -1,5 +1,5 @@
-a69e9fc478b1ed22ef627c7a19732366096adfe1b090d42b5bb54c6309926c7b  article/cfb-gagetown-fire-artillery-lawfield-impact-area.html
-8b51b7c8d69ba0f258f70496ff3d284e9965dbcabfcba895a286d72e175000ba  article/cfb-gagetown-fire-artillery-lawfield-impact-area.md
+2c415b9658ce1a0af678bf48bf96796eab1d6464ab7b5bbcfaa119f44279e672  article/cfb-gagetown-fire-artillery-lawfield-impact-area.html
+89a66939b19cf782f7621366ecea1527ac544f662531d882ffb2c586409e241f  article/cfb-gagetown-fire-artillery-lawfield-impact-area.md
 c6d2cde8fc3b57afb0a58ac98a62705662a06e2d47c81efed674cc71513b491c  article/graphics-captions-tweets.md
 8200f812407d2e2d30eeaa26cb487e40667d1e3094e558e5ba0c22482739c132  article/images/01-cfb-gagetown-fire-region.jpg
 0faaa9c4bee47c85f77467074fd7a42b6d42f88f6a6caf8aba1cdd46f65edcde  article/images/02-cfb-gagetown-fire-locator.jpg
@@ -13,7 +13,7 @@ e93621ee8763ce32f336f312875d98a871b19dec3f06a0b94fcd40de642b37a6  article/images
 8ce644c1b17652b0a43ded03101dca652f646aa47940526a83a8358a7cf3c644  article/images/10-cfb-gagetown-fire-day-two.jpg
 6c95c43fd1d7f4043fd7ee42f70b32bb261625aa7e5772802a4422ca22854fbb  article/images/11-cfb-gagetown-fire-social-card.jpg
 48d1370be8054d64f83d42ceac998292eb2c6256a7c34cb0e9b4063e52a2b7b8  article/images/12-cfb-gagetown-fire-base-answers.jpg
-6b304ba291293e315a85c45c742611313585a8b6fb33c49fdef0c453db4b69d0  article/images/13-cfb-gagetown-fire-first-hours.jpg
+1548a3056ef89f0e287273a0346cab3e93a81dfbd1ef1fbb097e0d8cc5e40325  article/images/13-cfb-gagetown-fire-first-hours.jpg
 fc650bfa3cf993a50548919b560d6f06b3ec3fa8fef2827694e71f15819f874e  article/images/14-cfb-gagetown-fire-how-the-story-broke.jpg
 f86336126cee671898afec0b935cae32b220fb26ad987fa7e9073102a97e9dc8  article/images/15-cfb-gagetown-wainwright-compared.jpg
 85ceaeeb4328651534f5960e16f2cf19731402af33e0561a4ec7bbf6daced607  article/rank-math.json
@@ -59,13 +59,13 @@ e2e09f91613e6bb1b4140c79172dd59b46043e4e0f2841c8c14816e3e54931a7  cfb-gagetown/2
 8ce644c1b17652b0a43ded03101dca652f646aa47940526a83a8358a7cf3c644  cfb-gagetown/2026-10-29/maps/branded/10-cfb-gagetown-fire-day-two.jpg
 6c95c43fd1d7f4043fd7ee42f70b32bb261625aa7e5772802a4422ca22854fbb  cfb-gagetown/2026-10-29/maps/branded/11-cfb-gagetown-fire-social-card.jpg
 48d1370be8054d64f83d42ceac998292eb2c6256a7c34cb0e9b4063e52a2b7b8  cfb-gagetown/2026-10-29/maps/branded/12-cfb-gagetown-fire-base-answers.jpg
-6b304ba291293e315a85c45c742611313585a8b6fb33c49fdef0c453db4b69d0  cfb-gagetown/2026-10-29/maps/branded/13-cfb-gagetown-fire-first-hours.jpg
+1548a3056ef89f0e287273a0346cab3e93a81dfbd1ef1fbb097e0d8cc5e40325  cfb-gagetown/2026-10-29/maps/branded/13-cfb-gagetown-fire-first-hours.jpg
 fc650bfa3cf993a50548919b560d6f06b3ec3fa8fef2827694e71f15819f874e  cfb-gagetown/2026-10-29/maps/branded/14-cfb-gagetown-fire-how-the-story-broke.jpg
 f86336126cee671898afec0b935cae32b220fb26ad987fa7e9073102a97e9dc8  cfb-gagetown/2026-10-29/maps/branded/15-cfb-gagetown-wainwright-compared.jpg
 c49ab82147023d3c44c5c99c7439394560d615629b9d3a9b527a7d42187a122d  cfb-gagetown/goes/goes_fire_2026-10-28_29.csv
-d93fe7354d9cadd084eba68c2f7581bb5cb8fb1df421d3184100963df3c9131c  scripts/__pycache__/build_article_cards_gagetown.cpython-313.pyc
+1f51ee265d6a4a926bb4f8f92c349b8ab83c14483c6a3088739b262c18dd86d0  scripts/__pycache__/build_article_cards_gagetown.cpython-313.pyc
 899a5d0a406d2ede4e17a16f7149102112132e4b6cb7d6c666b292398c5bbaad  scripts/__pycache__/build_article_graphics_gagetown.cpython-313.pyc
-ae824854205a73ab7308eb6e544dc1dc441404bc0d15b4856074dd22d1c669a3  scripts/build_article_cards_gagetown.py
+71322fe7af6d4d610a53fa02cff05ef2d9ab3d127e7a99a4761203dad1e3c622  scripts/build_article_cards_gagetown.py
 31cce91f22b2425f9733054eb2c5157c6b5920c264f2042900a8d233ad456668  scripts/build_article_graphics_gagetown.py
 707b34c2824bfc2c631ad44836b08d80062f4d55bb176c8fdbcbae64b5e61783  scripts/build_brand_gagetown_2026-10-28.py
 3ccc5032b9460d4bd7757493ab363f6056039e5af3907d306883f9ca16346902  scripts/make_maps_gagetown_2026-10-28.py
