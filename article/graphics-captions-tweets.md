@@ -55,7 +55,7 @@ Every tweet is under 280 characters including a 23-character link. Images are in
     > How the CFB Gagetown fire story broke: satellites had it from 12:46 p.m., an automated watch flagged it at 5:21 p.m., and the base posted at about 9:49 p.m. The cause came the next day. {link}
 
 11. **15 Wainwright compared**
-    > Two range fires, eleven days apart. At Wainwright on Oct. 17, wind drove the fire onto soldiers; four died. At Gagetown on Oct. 28, it stayed in the impact area and no one was hurt. What changed after Wainwright? Ask "the appropriate authorities." {link}
+    > Two range fires, eleven days apart. Wainwright, Oct. 17: wind drove the fire onto soldiers; four died. Gagetown, Oct. 28: it stayed in the impact area; no one was hurt. Asked what changed in between, the base referred us to "the appropriate authorities." {link}
 
 ### Single post (if not a thread)
 > Artillery started the CFB Gagetown fire on Oct. 28. Reported 12:22 p.m., seen from orbit at 12:46, about 25 ha burned, no one hurt, still burning a day later. Eleven days after Wainwright. The full sequence: {link}
