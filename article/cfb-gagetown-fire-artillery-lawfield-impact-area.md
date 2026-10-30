@@ -25,7 +25,7 @@ rank_math:
     location: "CFB Gagetown Range and Training Area, New Brunswick, Canada (45.749 N, 66.260 W)"
   open_graph:
     title: "Artillery set CFB Gagetown's training area burning. Satellites watched for two days."
-    description: "A 105 mm howitzer course, a Moderate fire-danger rating, 25 hectares burned: the full sequence of the Oct. 28 fire, from orbit and from the base."
+    description: "First reported by Prime Rogue. A 105 mm howitzer course, a Moderate fire-danger rating, 25 hectares burned: the full sequence, from orbit and from the base."
     image: cfb-gagetown/2026-10-29/maps/branded/11-cfb-gagetown-fire-social-card.jpg
   twitter:
     card: summary_large_image
@@ -56,6 +56,8 @@ image_alts:
 **A fire started by artillery shooting into the Lawfield Impact Area burned through part of the CFB Gagetown training area in New Brunswick on Oct. 28 and was still burning the next afternoon. The base says it was reported to Range Control at 12:22 p.m. ADT, during a Royal Canadian Artillery School course firing the 105 mm LG1 howitzer, under a Moderate fire-danger rating. No one was hurt. Public satellite data shows how it unfolded, hour by hour.**
 
 It came eleven days after the fire at CFB Wainwright, Alta., where four soldiers died and 39 were injured on Oct. 17.
+
+Prime Rogue [first reported the fire on X](https://x.com/KevinDuska/status/2115597849425793397) at 9:13 p.m. ADT on Oct. 28. That was 36 minutes before the base's public statement, using data from Roger Wilco Imagery, the satellite-monitoring dashboard Prime Rogue is building.
 
 ![A fire in the CFB Gagetown training area](../cfb-gagetown/2026-10-28/maps/branded/01-cfb-gagetown-fire-region.jpg)
 
@@ -133,11 +135,12 @@ In short-wave infrared, the clearing shows as dry, sparsely vegetated ground, an
 - **12:22 p.m., Oct. 28:** fire reported to Range Control, per the base.
 - **12:46 p.m.:** first heat from orbit (GOES-19).
 - **1:22 p.m.:** first NASA FIRMS (VIIRS) detections.
-- **5:21 p.m.:** [Roger Wilco Media](https://rogerwilcomedia.online/), Prime Rogue's open-source satellite-monitoring service, flagged the fire automatically as a new heat source on a military base. It listed it on its public site that evening.
+- **5:21 p.m.:** Roger Wilco Imagery, the open-source satellite-monitoring dashboard Prime Rogue owns and is building (not yet launched), flagged the fire automatically as new heat on a military base.
+- **9:13 p.m.: first public report.** Prime Rogue [posted the fire on X](https://x.com/KevinDuska/status/2115597849425793397), from Roger Wilco Imagery's satellite data. As far as we can find, that was the first public report of the fire.
 - **About 9:49 p.m.:** CFB Gagetown posted a statement on Instagram. It said a wildfire was burning in the northeastern sector of the training area, monitored by Wildland Fire Management Services, with no threat to nearby communities, and that training nearby was suspended.
 - **Late Oct. 28:** [The Canadian Press](https://www.ctvnews.ca/atlantic/new-brunswick/article/fire-at-new-brunswick-military-base-not-threat-to-public-defence-officials/) reported the fire, citing defence officials who said it was no threat to the public.
-- **Morning of Oct. 29:** Roger Wilco Media wrote up the satellite timeline in [SITREP 017](https://rogerwilcomedia.online/report/RWI-SITREP-017.html): GOES-19's first heat, the five passes, the peak and the spread. It flagged that the cause had not been given. A build failure on its site kept the report offline until that evening.
-- **Oct. 29, during the day:** the [Fredericton Independent](https://ftonindependent.substack.com/p/wildfire-burning-at-base-gagetown) reported the base's statement. The base's afternoon update to reporters gave the cause and the 25-hectare figure ([CBC News](https://www.cbc.ca/news/canada/new-brunswick/wildfire-base-gagetown-9.7401802); [Fredericton Independent](https://ftonindependent.substack.com/p/base-gagetown-wildfire-still-active)). Roger Wilco Media's [SITREP 018](https://rogerwilcomedia.online/report/RWI-SITREP-018.html) followed that night with the second day's detections.
+- **Morning of Oct. 29:** Roger Wilco Imagery's situation report ([SITREP 017](https://rogerwilcomedia.online/report/RWI-SITREP-017.html)) laid out the satellite timeline: GOES-19's first heat, the five passes, the peak and the spread. It flagged that the cause had not been given.
+- **Oct. 29, during the day:** the [Fredericton Independent](https://ftonindependent.substack.com/p/wildfire-burning-at-base-gagetown) reported the base's statement. The base's afternoon update to reporters gave the cause and the 25-hectare figure ([CBC News](https://www.cbc.ca/news/canada/new-brunswick/wildfire-base-gagetown-9.7401802); [Fredericton Independent](https://ftonindependent.substack.com/p/base-gagetown-wildfire-still-active)). Roger Wilco Imagery's [SITREP 018](https://rogerwilcomedia.online/report/RWI-SITREP-018.html) followed that night with the second day's detections.
 
 Reports disagree on the fire's status on Oct. 29. The Canadian Press described it as under control. The base's own answers say it "remains active."
 
@@ -146,7 +149,7 @@ Reports disagree on the fire's status on Oct. 29. The Canadian Press described i
 ![Two range fires, eleven days apart](../cfb-gagetown/2026-10-29/maps/branded/15-cfb-gagetown-wainwright-compared.jpg)
 
 Wainwright still hangs over every range fire.
-- The Oct. 17 fire there started on an automatic grenade launcher range, and a wind shift drove it onto soldiers on a nearby range. Roger Wilco Media's satellite analysis put the first heat about 70 minutes before the ignition time officials first gave.
+- The Oct. 17 fire there started on an automatic grenade launcher range, and a wind shift drove it onto soldiers on a nearby range. Roger Wilco Imagery's satellite analysis put the first heat about 70 minutes before the ignition time officials first gave.
 - At Gagetown the picture is different: the fire was in an impact area, no one was in its path, and the base says it was seen and reported almost at once.
 
 But some of the same questions apply:
@@ -159,11 +162,11 @@ The base answered the first in general terms and referred the last to "the appro
 ## Sources and method
 
 - **Fire detections:** NASA FIRMS (VIIRS on NOAA-21, NOAA-20 and Suomi NPP), near-real-time, Oct. 27–30.
-- **GOES-19:** the NOAA ABI fire product, via NOAA Open Data on AWS. The five-minute series was assembled by Roger Wilco Media.
+- **GOES-19:** the NOAA ABI fire product, via NOAA Open Data on AWS. The five-minute series was assembled by Roger Wilco Imagery.
 - **Imagery:** Sentinel-2, Oct. 27 (contains modified Copernicus Sentinel data [2026]).
 - **Terrain:** Copernicus DEM GLO-30.
 - **Fire radiative power** measures heat output, not area burned.
 - **Raw data and code:** every number above can be checked against the unaltered FIRMS responses, the merged tables and the scripts in Prime Rogue's public repository, [DND-BASE-FIRES-Beginning-10-28-2026](https://github.com/primerogueinc/DND-BASE-FIRES-Beginning-10-28-2026).
-- **Disclosure:** Roger Wilco Media is run by Prime Rogue Inc.
+- **Disclosure:** Roger Wilco Imagery is owned by Prime Rogue Inc. It hasn't launched yet; a preview is at [rogerwilcomedia.online](https://rogerwilcomedia.online/).
 
 *Prime Rogue Inc. is a member of the Canadian Association of Journalists. Corrections: kevin@primerogueinc.com.*
